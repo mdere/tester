@@ -1,0 +1,9 @@
+
+
+Started GET "/verify" for 127.0.0.1 at 2016-09-30 14:52:24 -0400
+Processing by Honeybadger::TestController#verify as HTML
+Completed 500 Internal Server Error in 9ms
+  Rendered /home/mdere/.rvm/gems/ruby-2.1.4/gems/actionpack-4.0.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /home/mdere/.rvm/gems/ruby-2.1.4/gems/actionpack-4.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /home/mdere/.rvm/gems/ruby-2.1.4/gems/actionpack-4.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /home/mdere/.rvm/gems/ruby-2.1.4/gems/actionpack-4.0.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.4ms)
